@@ -1,0 +1,52 @@
+[
+   {
+      "id": 1,
+      "code": 1,
+      "timestamp": 1646618974209,
+      "name": "Shure SM57",
+      "desc": "The Shure SM57 unidirectional dynamic microphone is exceptional for musical instrument pickup or for vocals.",
+      "price": 26000,
+      "image": "https://http2.mlstatic.com/D_NQ_NP_780014-MLA31062609678_062019-O.webp",
+      "stock": 5
+   },
+   {
+      "id": 2,
+      "code": 2,
+      "timestamp": 1646618983235,
+      "name": "Neumann U 87",
+      "desc": "A definitive legend for decades, the nickel Neumann U 87 Ai Studio Set is a large-diaphragm condenser microphone offering the timeless and special sound that remains highly coveted for singers, voice-over artists, announcers, producers, and recording engineers.",
+      "price": 791981,
+      "image": "https://http2.mlstatic.com/D_NQ_NP_867836-MLA32553351878_102019-O.webp",
+      "stock": 10
+   },
+   {
+      "id": 3,
+      "code": 3,
+      "timestamp": 1646618994386,
+      "name": "AKG C414 ",
+      "desc": "The AKG C414 is a classic large-diaphragm condenser microphone, standard equipment in many recording studios around the world.",
+      "price": 438000,
+      "image": "https://http2.mlstatic.com/D_NQ_NP_747230-MLA43319575663_082020-O.webp",
+      "stock": 10
+   },
+   {
+      "id": 4,
+      "code": 4,
+      "timestamp": 1646619011618,
+      "name": "Rode Nt1a",
+      "desc": "The NT1-A is a classic large-diaphragm true-condenser microphone that exhibits stunning warmth and clarity, making it ideal for recording vocals of all types.",
+      "price": 100000,
+      "image": "https://http2.mlstatic.com/D_NQ_NP_661645-MLA25825250252_072017-O.webp",
+      "stock": 5
+   },
+   {
+      "id": 5,
+      "code": 5,
+      "timestamp": 1646619021562,
+      "name": "Sennheiser Me62 K6",
+      "desc": "The ME 62 is an omni-directional microphone head suitable for K6 and K6P powering modules. It can be used for reporting, discussions and interviews.",
+      "price": 135000,
+      "image": "https://http2.mlstatic.com/D_NQ_NP_859709-MLA44816239710_022021-O.webp",
+      "stock": 20
+   }
+]

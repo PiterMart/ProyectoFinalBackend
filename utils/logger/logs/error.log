@@ -1,0 +1,183 @@
+[2022-07-26T19:47:20.056] [ERROR] error - Error: No recipients defined
+    at SMTPConnection._formatError (D:\programacion\backend\hector\Proyecto final Martingaste\ProyectoFinal Martingaste\node_modules\nodemailer\lib\smtp-connection\index.js:784:19)
+    at SMTPConnection._setEnvelope (D:\programacion\backend\hector\Proyecto final Martingaste\ProyectoFinal Martingaste\node_modules\nodemailer\lib\smtp-connection\index.js:1001:34)
+    at SMTPConnection.send (D:\programacion\backend\hector\Proyecto final Martingaste\ProyectoFinal Martingaste\node_modules\nodemailer\lib\smtp-connection\index.js:615:14)
+    at sendMessage (D:\programacion\backend\hector\Proyecto final Martingaste\ProyectoFinal Martingaste\node_modules\nodemailer\lib\smtp-transport\index.js:227:28)
+    at D:\programacion\backend\hector\Proyecto final Martingaste\ProyectoFinal Martingaste\node_modules\nodemailer\lib\smtp-transport\index.js:285:25
+    at SMTPConnection._actionAUTHComplete (D:\programacion\backend\hector\Proyecto final Martingaste\ProyectoFinal Martingaste\node_modules\nodemailer\lib\smtp-connection\index.js:1550:9)
+    at SMTPConnection.<anonymous> (D:\programacion\backend\hector\Proyecto final Martingaste\ProyectoFinal Martingaste\node_modules\nodemailer\lib\smtp-connection\index.js:540:26)
+    at SMTPConnection._processResponse (D:\programacion\backend\hector\Proyecto final Martingaste\ProyectoFinal Martingaste\node_modules\nodemailer\lib\smtp-connection\index.js:947:20)
+    at SMTPConnection._onData (D:\programacion\backend\hector\Proyecto final Martingaste\ProyectoFinal Martingaste\node_modules\nodemailer\lib\smtp-connection\index.js:749:14)
+    at TLSSocket.SMTPConnection._onSocketData (D:\programacion\backend\hector\Proyecto final Martingaste\ProyectoFinal Martingaste\node_modules\nodemailer\lib\smtp-connection\index.js:189:44) {
+  code: 'EENVELOPE',
+  command: 'API'
+}
+[2022-07-26T20:06:54.326] [ERROR] error - Error: No recipients defined
+    at SMTPConnection._formatError (D:\programacion\backend\hector\Proyecto final Martingaste\ProyectoFinal Martingaste\node_modules\nodemailer\lib\smtp-connection\index.js:784:19)
+    at SMTPConnection._setEnvelope (D:\programacion\backend\hector\Proyecto final Martingaste\ProyectoFinal Martingaste\node_modules\nodemailer\lib\smtp-connection\index.js:1001:34)
+    at SMTPConnection.send (D:\programacion\backend\hector\Proyecto final Martingaste\ProyectoFinal Martingaste\node_modules\nodemailer\lib\smtp-connection\index.js:615:14)
+    at sendMessage (D:\programacion\backend\hector\Proyecto final Martingaste\ProyectoFinal Martingaste\node_modules\nodemailer\lib\smtp-transport\index.js:227:28)
+    at D:\programacion\backend\hector\Proyecto final Martingaste\ProyectoFinal Martingaste\node_modules\nodemailer\lib\smtp-transport\index.js:285:25
+    at SMTPConnection._actionAUTHComplete (D:\programacion\backend\hector\Proyecto final Martingaste\ProyectoFinal Martingaste\node_modules\nodemailer\lib\smtp-connection\index.js:1550:9)
+    at SMTPConnection.<anonymous> (D:\programacion\backend\hector\Proyecto final Martingaste\ProyectoFinal Martingaste\node_modules\nodemailer\lib\smtp-connection\index.js:540:26)
+    at SMTPConnection._processResponse (D:\programacion\backend\hector\Proyecto final Martingaste\ProyectoFinal Martingaste\node_modules\nodemailer\lib\smtp-connection\index.js:947:20)
+    at SMTPConnection._onData (D:\programacion\backend\hector\Proyecto final Martingaste\ProyectoFinal Martingaste\node_modules\nodemailer\lib\smtp-connection\index.js:749:14)
+    at TLSSocket.SMTPConnection._onSocketData (D:\programacion\backend\hector\Proyecto final Martingaste\ProyectoFinal Martingaste\node_modules\nodemailer\lib\smtp-connection\index.js:189:44) {
+  code: 'EENVELOPE',
+  command: 'API'
+}
+[2022-07-26T20:14:26.291] [ERROR] error - Error: No recipients defined
+    at SMTPConnection._formatError (D:\programacion\backend\hector\Proyecto final Martingaste\ProyectoFinal Martingaste\node_modules\nodemailer\lib\smtp-connection\index.js:784:19)
+    at SMTPConnection._setEnvelope (D:\programacion\backend\hector\Proyecto final Martingaste\ProyectoFinal Martingaste\node_modules\nodemailer\lib\smtp-connection\index.js:1001:34)
+    at SMTPConnection.send (D:\programacion\backend\hector\Proyecto final Martingaste\ProyectoFinal Martingaste\node_modules\nodemailer\lib\smtp-connection\index.js:615:14)
+    at sendMessage (D:\programacion\backend\hector\Proyecto final Martingaste\ProyectoFinal Martingaste\node_modules\nodemailer\lib\smtp-transport\index.js:227:28)
+    at D:\programacion\backend\hector\Proyecto final Martingaste\ProyectoFinal Martingaste\node_modules\nodemailer\lib\smtp-transport\index.js:285:25
+    at SMTPConnection._actionAUTHComplete (D:\programacion\backend\hector\Proyecto final Martingaste\ProyectoFinal Martingaste\node_modules\nodemailer\lib\smtp-connection\index.js:1550:9)
+    at SMTPConnection.<anonymous> (D:\programacion\backend\hector\Proyecto final Martingaste\ProyectoFinal Martingaste\node_modules\nodemailer\lib\smtp-connection\index.js:540:26)
+    at SMTPConnection._processResponse (D:\programacion\backend\hector\Proyecto final Martingaste\ProyectoFinal Martingaste\node_modules\nodemailer\lib\smtp-connection\index.js:947:20)
+    at SMTPConnection._onData (D:\programacion\backend\hector\Proyecto final Martingaste\ProyectoFinal Martingaste\node_modules\nodemailer\lib\smtp-connection\index.js:749:14)
+    at TLSSocket.SMTPConnection._onSocketData (D:\programacion\backend\hector\Proyecto final Martingaste\ProyectoFinal Martingaste\node_modules\nodemailer\lib\smtp-connection\index.js:189:44) {
+  code: 'EENVELOPE',
+  command: 'API'
+}
+[2022-07-26T20:18:19.344] [ERROR] error - Error: No recipients defined
+    at SMTPConnection._formatError (D:\programacion\backend\hector\Proyecto final Martingaste\ProyectoFinal Martingaste\node_modules\nodemailer\lib\smtp-connection\index.js:784:19)
+    at SMTPConnection._setEnvelope (D:\programacion\backend\hector\Proyecto final Martingaste\ProyectoFinal Martingaste\node_modules\nodemailer\lib\smtp-connection\index.js:1001:34)
+    at SMTPConnection.send (D:\programacion\backend\hector\Proyecto final Martingaste\ProyectoFinal Martingaste\node_modules\nodemailer\lib\smtp-connection\index.js:615:14)
+    at sendMessage (D:\programacion\backend\hector\Proyecto final Martingaste\ProyectoFinal Martingaste\node_modules\nodemailer\lib\smtp-transport\index.js:227:28)
+    at D:\programacion\backend\hector\Proyecto final Martingaste\ProyectoFinal Martingaste\node_modules\nodemailer\lib\smtp-transport\index.js:285:25
+    at SMTPConnection._actionAUTHComplete (D:\programacion\backend\hector\Proyecto final Martingaste\ProyectoFinal Martingaste\node_modules\nodemailer\lib\smtp-connection\index.js:1550:9)
+    at SMTPConnection.<anonymous> (D:\programacion\backend\hector\Proyecto final Martingaste\ProyectoFinal Martingaste\node_modules\nodemailer\lib\smtp-connection\index.js:540:26)
+    at SMTPConnection._processResponse (D:\programacion\backend\hector\Proyecto final Martingaste\ProyectoFinal Martingaste\node_modules\nodemailer\lib\smtp-connection\index.js:947:20)
+    at SMTPConnection._onData (D:\programacion\backend\hector\Proyecto final Martingaste\ProyectoFinal Martingaste\node_modules\nodemailer\lib\smtp-connection\index.js:749:14)
+    at TLSSocket.SMTPConnection._onSocketData (D:\programacion\backend\hector\Proyecto final Martingaste\ProyectoFinal Martingaste\node_modules\nodemailer\lib\smtp-connection\index.js:189:44) {
+  code: 'EENVELOPE',
+  command: 'API'
+}
+[2022-07-26T20:23:09.002] [ERROR] error - Error: No recipients defined
+    at SMTPConnection._formatError (D:\programacion\backend\hector\Proyecto final Martingaste\ProyectoFinal Martingaste\node_modules\nodemailer\lib\smtp-connection\index.js:784:19)
+    at SMTPConnection._setEnvelope (D:\programacion\backend\hector\Proyecto final Martingaste\ProyectoFinal Martingaste\node_modules\nodemailer\lib\smtp-connection\index.js:1001:34)
+    at SMTPConnection.send (D:\programacion\backend\hector\Proyecto final Martingaste\ProyectoFinal Martingaste\node_modules\nodemailer\lib\smtp-connection\index.js:615:14)
+    at sendMessage (D:\programacion\backend\hector\Proyecto final Martingaste\ProyectoFinal Martingaste\node_modules\nodemailer\lib\smtp-transport\index.js:227:28)
+    at D:\programacion\backend\hector\Proyecto final Martingaste\ProyectoFinal Martingaste\node_modules\nodemailer\lib\smtp-transport\index.js:285:25
+    at SMTPConnection._actionAUTHComplete (D:\programacion\backend\hector\Proyecto final Martingaste\ProyectoFinal Martingaste\node_modules\nodemailer\lib\smtp-connection\index.js:1550:9)
+    at SMTPConnection.<anonymous> (D:\programacion\backend\hector\Proyecto final Martingaste\ProyectoFinal Martingaste\node_modules\nodemailer\lib\smtp-connection\index.js:540:26)
+    at SMTPConnection._processResponse (D:\programacion\backend\hector\Proyecto final Martingaste\ProyectoFinal Martingaste\node_modules\nodemailer\lib\smtp-connection\index.js:947:20)
+    at SMTPConnection._onData (D:\programacion\backend\hector\Proyecto final Martingaste\ProyectoFinal Martingaste\node_modules\nodemailer\lib\smtp-connection\index.js:749:14)
+    at TLSSocket.SMTPConnection._onSocketData (D:\programacion\backend\hector\Proyecto final Martingaste\ProyectoFinal Martingaste\node_modules\nodemailer\lib\smtp-connection\index.js:189:44) {
+  code: 'EENVELOPE',
+  command: 'API'
+}
+[2022-07-26T20:25:11.060] [ERROR] error - Error: Creating the User. Error: No recipients defined
+    at UserServices.createUserService (D:\programacion\backend\hector\Proyecto final Martingaste\ProyectoFinal Martingaste\services\user.services.js:75:13)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async Strategy._verify (D:\programacion\backend\hector\Proyecto final Martingaste\ProyectoFinal Martingaste\middlewares\passport.js:40:23)
+[2022-07-26T20:32:08.083] [ERROR] error - Error: Creating the User. Error: No recipients defined
+    at UserServices.createUserService (D:\programacion\backend\hector\Proyecto final Martingaste\ProyectoFinal Martingaste\services\user.services.js:75:13)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async Strategy._verify (D:\programacion\backend\hector\Proyecto final Martingaste\ProyectoFinal Martingaste\middlewares\passport.js:40:23)
+[2022-07-26T20:40:19.386] [ERROR] error - Error: Creating the User. Error: No recipients defined
+    at UserServices.createUserService (D:\programacion\Proyecto final Martingaste final\ProyectoFinal Martingaste\services\user.services.js:75:13)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async Strategy._verify (D:\programacion\Proyecto final Martingaste final\ProyectoFinal Martingaste\middlewares\passport.js:40:23)
+[2022-07-26T20:48:44.894] [ERROR] error - Error: Creating the User. Error: No recipients defined
+    at UserServices.createUserService (D:\programacion\Proyecto final Martingaste final\ProyectoFinal Martingaste\services\user.services.js:75:13)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async Strategy._verify (D:\programacion\Proyecto final Martingaste final\ProyectoFinal Martingaste\middlewares\passport.js:40:23)
+[2022-07-26T20:54:59.745] [ERROR] error - Error: Creating the User. Error: No recipients defined
+    at UserServices.createUserService (D:\programacion\Proyecto final Martingaste final\ProyectoFinal Martingaste\services\user.services.js:75:13)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async Strategy._verify (D:\programacion\Proyecto final Martingaste final\ProyectoFinal Martingaste\middlewares\passport.js:40:23)
+[2022-07-26T21:00:42.071] [ERROR] error - Error: Creating the User. Error: No recipients defined
+    at UserServices.createUserService (D:\programacion\Proyecto final Martingaste final\ProyectoFinal Martingaste\services\user.services.js:75:13)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async Strategy._verify (D:\programacion\Proyecto final Martingaste final\ProyectoFinal Martingaste\middlewares\passport.js:40:23)
+[2022-07-26T21:09:30.504] [ERROR] error - Error: Creating the User. TypeError: Cannot read property 'postNewUser' of undefined
+    at UserServices.createUserService (D:\programacion\Proyecto final Martingaste final\ProyectoFinal Martingaste\services\user.services.js:75:13)
+    at Strategy._verify (D:\programacion\Proyecto final Martingaste final\ProyectoFinal Martingaste\middlewares\passport.js:40:42)
+    at Strategy.authenticate (D:\programacion\Proyecto final Martingaste final\ProyectoFinal Martingaste\node_modules\passport-local\lib\strategy.js:88:12)
+    at attempt (D:\programacion\Proyecto final Martingaste final\ProyectoFinal Martingaste\node_modules\passport\lib\middleware\authenticate.js:369:16)
+    at authenticate (D:\programacion\Proyecto final Martingaste final\ProyectoFinal Martingaste\node_modules\passport\lib\middleware\authenticate.js:370:7)
+    at Layer.handle [as handle_request] (D:\programacion\Proyecto final Martingaste final\ProyectoFinal Martingaste\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\programacion\Proyecto final Martingaste final\ProyectoFinal Martingaste\node_modules\express\lib\router\route.js:144:13)
+    at Immediate.<anonymous> (D:\programacion\Proyecto final Martingaste final\ProyectoFinal Martingaste\node_modules\multer\lib\make-middleware.js:53:37)
+    at processImmediate (internal/timers.js:464:21)
+[2022-07-26T21:11:09.594] [ERROR] error - Error: Getting all Products. TypeError: Cannot read property 'getAllProducts' of undefined
+    at ProductServices.getAllProductsService (D:\programacion\Proyecto final Martingaste final\ProyectoFinal Martingaste\services\product.services.js:30:13)
+    at ProductsController.getAllProducts (D:\programacion\Proyecto final Martingaste final\ProyectoFinal Martingaste\controllers\products.controller.js:10:54)
+    at D:\programacion\Proyecto final Martingaste final\ProyectoFinal Martingaste\routers\indexRoutes.js:31:48
+    at Layer.handle [as handle_request] (D:\programacion\Proyecto final Martingaste final\ProyectoFinal Martingaste\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\programacion\Proyecto final Martingaste final\ProyectoFinal Martingaste\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (D:\programacion\Proyecto final Martingaste final\ProyectoFinal Martingaste\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (D:\programacion\Proyecto final Martingaste final\ProyectoFinal Martingaste\node_modules\express\lib\router\layer.js:95:5)
+    at D:\programacion\Proyecto final Martingaste final\ProyectoFinal Martingaste\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (D:\programacion\Proyecto final Martingaste final\ProyectoFinal Martingaste\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\programacion\Proyecto final Martingaste final\ProyectoFinal Martingaste\node_modules\express\lib\router\index.js:280:10)
+[2022-07-26T21:11:21.750] [ERROR] error - Error: Getting all Products. TypeError: Cannot read property 'getAllProducts' of undefined
+    at ProductServices.getAllProductsService (D:\programacion\Proyecto final Martingaste final\ProyectoFinal Martingaste\services\product.services.js:30:13)
+    at ProductsController.getAllProducts (D:\programacion\Proyecto final Martingaste final\ProyectoFinal Martingaste\controllers\products.controller.js:10:54)
+    at D:\programacion\Proyecto final Martingaste final\ProyectoFinal Martingaste\routers\indexRoutes.js:31:48
+    at Layer.handle [as handle_request] (D:\programacion\Proyecto final Martingaste final\ProyectoFinal Martingaste\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\programacion\Proyecto final Martingaste final\ProyectoFinal Martingaste\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (D:\programacion\Proyecto final Martingaste final\ProyectoFinal Martingaste\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (D:\programacion\Proyecto final Martingaste final\ProyectoFinal Martingaste\node_modules\express\lib\router\layer.js:95:5)
+    at D:\programacion\Proyecto final Martingaste final\ProyectoFinal Martingaste\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (D:\programacion\Proyecto final Martingaste final\ProyectoFinal Martingaste\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\programacion\Proyecto final Martingaste final\ProyectoFinal Martingaste\node_modules\express\lib\router\index.js:280:10)
+[2022-07-26T21:14:06.491] [ERROR] error - Error: Error updating the cart
+    at CartServices.addProductToCartService (D:\programacion\Proyecto final Martingaste final\ProyectoFinal Martingaste\services\cart.services.js:93:13)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async postNewProduct (D:\programacion\Proyecto final Martingaste final\ProyectoFinal Martingaste\controllers\cart.controller.js:49:7)
+[2022-07-26T21:15:48.800] [ERROR] error - Error: Error updating the cart
+    at CartServices.addProductToCartService (D:\programacion\Proyecto final Martingaste final\ProyectoFinal Martingaste\services\cart.services.js:93:13)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async postNewProduct (D:\programacion\Proyecto final Martingaste final\ProyectoFinal Martingaste\controllers\cart.controller.js:49:7)
+[2022-07-26T21:16:15.508] [ERROR] error - Error: Error updating the cart
+    at CartServices.addProductToCartService (D:\programacion\Proyecto final Martingaste final\ProyectoFinal Martingaste\services\cart.services.js:93:13)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async postNewProduct (D:\programacion\Proyecto final Martingaste final\ProyectoFinal Martingaste\controllers\cart.controller.js:49:7)
+[2022-07-26T21:20:09.803] [ERROR] error - Error: Error updating the cart
+    at CartServices.addProductToCartService (D:\programacion\Proyecto final Martingaste final\ProyectoFinal Martingaste\services\cart.services.js:93:13)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async postNewProduct (D:\programacion\Proyecto final Martingaste final\ProyectoFinal Martingaste\controllers\cart.controller.js:49:7)
+[2022-07-26T21:21:14.666] [ERROR] error - Error: Error updating the cart
+    at CartServices.addProductToCartService (D:\programacion\Proyecto final Martingaste final\ProyectoFinal Martingaste\services\cart.services.js:93:13)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async postNewProduct (D:\programacion\Proyecto final Martingaste final\ProyectoFinal Martingaste\controllers\cart.controller.js:49:7)
+[2022-07-26T21:22:38.075] [ERROR] error - Error: Error updating the cart
+    at CartServices.addProductToCartService (D:\programacion\Proyecto final Martingaste final\ProyectoFinal Martingaste\services\cart.services.js:93:13)
+    at postNewProduct (D:\programacion\Proyecto final Martingaste final\ProyectoFinal Martingaste\controllers\cart.controller.js:49:31)
+    at Layer.handle [as handle_request] (D:\programacion\Proyecto final Martingaste final\ProyectoFinal Martingaste\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\programacion\Proyecto final Martingaste final\ProyectoFinal Martingaste\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (D:\programacion\Proyecto final Martingaste final\ProyectoFinal Martingaste\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (D:\programacion\Proyecto final Martingaste final\ProyectoFinal Martingaste\node_modules\express\lib\router\layer.js:95:5)
+    at D:\programacion\Proyecto final Martingaste final\ProyectoFinal Martingaste\node_modules\express\lib\router\index.js:284:15
+    at param (D:\programacion\Proyecto final Martingaste final\ProyectoFinal Martingaste\node_modules\express\lib\router\index.js:365:14)
+    at param (D:\programacion\Proyecto final Martingaste final\ProyectoFinal Martingaste\node_modules\express\lib\router\index.js:376:14)
+    at param (D:\programacion\Proyecto final Martingaste final\ProyectoFinal Martingaste\node_modules\express\lib\router\index.js:376:14)
+[2022-07-26T21:24:19.803] [ERROR] error - Error: Error updating the cart
+    at CartServices.addProductToCartService (D:\programacion\Proyecto final Martingaste final\ProyectoFinal Martingaste\services\cart.services.js:93:13)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async postNewProduct (D:\programacion\Proyecto final Martingaste final\ProyectoFinal Martingaste\controllers\cart.controller.js:49:7)
+[2022-07-26T21:24:50.149] [ERROR] error - Error: Error updating the cart
+    at CartServices.addProductToCartService (D:\programacion\Proyecto final Martingaste final\ProyectoFinal Martingaste\services\cart.services.js:93:13)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async postNewProduct (D:\programacion\Proyecto final Martingaste final\ProyectoFinal Martingaste\controllers\cart.controller.js:49:7)
+[2022-07-26T21:28:08.108] [ERROR] error - Error: Error updating the cart
+    at CartServices.addProductToCartService (D:\programacion\Proyecto final Martingaste final\ProyectoFinal Martingaste\services\cart.services.js:93:13)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async postNewProduct (D:\programacion\Proyecto final Martingaste final\ProyectoFinal Martingaste\controllers\cart.controller.js:49:7)
+[2022-07-26T21:38:09.206] [ERROR] error - Error: Error updating the cart
+    at CartServices.addProductToCartService (D:\programacion\Proyecto final Martingaste final\ProyectoFinal Martingaste\services\cart.services.js:93:13)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async postNewProduct (D:\programacion\Proyecto final Martingaste final\ProyectoFinal Martingaste\controllers\cart.controller.js:49:7)
+[2022-07-26T21:51:32.913] [ERROR] error - Error: Error updating the cart
+    at CartServices.addProductToCartService (D:\programacion\Proyecto final Martingaste final\ProyectoFinal Martingaste\services\cart.services.js:93:13)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async postNewProduct (D:\programacion\Proyecto final Martingaste final\ProyectoFinal Martingaste\controllers\cart.controller.js:49:7)

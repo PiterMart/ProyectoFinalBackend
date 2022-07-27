@@ -1,0 +1,13 @@
+[
+   {
+      "email": "pitermartingaste@gmail.com",
+      "password": "$2b$10$GZAHPPnLVc/BMg1jUxNhqe9pkfw8nkiK07ozHx9EYbfU8CpiQHTJC",
+      "name": "piter",
+      "phone": "+5432102305",
+      "address": "SANTA FE AV.1991",
+      "createdAt": 1658880366513,
+      "updatedAt": 1658880366517,
+      "_id": "c3737814-ac30-446d-9718-7e104b73ec7a",
+      "cart": "f002f05a-c36f-4b8b-832a-e7ca6cb98335"
+   }
+]
